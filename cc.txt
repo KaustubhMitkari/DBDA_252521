@@ -1,0 +1,3 @@
+Cloud Coumputing:
+Cloud computing is a technique that use vertually on cloud system
+there are multiple platform that supply cloud services like aws,azure etc
